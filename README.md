@@ -27,8 +27,8 @@ Other tutorials on platform gamers with Phaser:
 
 # Notes
 
-- Method 1 to create the player (with sprites):
-    - [link](https://github.com/EvanBacon/expo-phaser-isometric/blob/master/game/dude.js)
-    - [link](http://phaser.io/tutorials/making-your-first-phaser-3-game/part5)
-- Method 2 (with "player"): [link](https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/)
+- Create the player:
+- [link](https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/)
+- [link](https://github.com/EvanBacon/expo-phaser-isometric/blob/master/game/dude.js)
+- [link](http://phaser.io/tutorials/making-your-first-phaser-3-game/part5)
 
