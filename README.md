@@ -16,7 +16,7 @@ Other tutorials on platform gamers with Phaser:
 
 ![image](https://user-images.githubusercontent.com/1620953/201653416-4b9cf166-21ea-4ad0-97cf-54b3c2f49354.png)
 
-- [On phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part7)  ([online editor](http://phaser.io/sandbox/edit/3)):
+- [On phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part7)  ([online editor 1](http://phaser.io/sandbox/edit/3), [online editor 2](https://labs.phaser.io/edit.html?src=src/games/firstgame/part7.js)):
 
 ![image](https://user-images.githubusercontent.com/1620953/201659741-4784e1d5-52b8-46a3-99c6-174f250f6886.png)
 
