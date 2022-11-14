@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/1620953/201653714-5101fdfb-0efb-49d5-b4bf-64b1434a36c2.png)
 
 
-#Demo platform game created with Phaser
+# Demo platform game created with [Phaser](https://phaser.io/download)
 
-Phaser requires a local HTTP server to run games locally, but thanks to github "Pages" feature, it is possible to [test projects online](https://jumpjack.github.io/pasher3-platform-demo/).
+[Phaser](https://phaser.io/download) requires a local HTTP server to run games locally, but thanks to github "Pages" feature, it is possible to [test projects online](https://jumpjack.github.io/pasher3-platform-demo/).
 
 I am studying this game to try implementing [my JS version  of Space1999Adventure](https://github.com/jumpjack/Space1999Adventure).
 
