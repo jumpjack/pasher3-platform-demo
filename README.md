@@ -16,11 +16,11 @@ Other tutorials on platform gamers with Phaser:
 
 ![image](https://user-images.githubusercontent.com/1620953/201653416-4b9cf166-21ea-4ad0-97cf-54b3c2f49354.png)
 
-- [On phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part7)  (player made with sprites):
+- [On phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part7)  ([online editor](http://phaser.io/sandbox/edit/3)):
 
 ![image](https://user-images.githubusercontent.com/1620953/201659741-4784e1d5-52b8-46a3-99c6-174f250f6886.png)
 
-- Phase3 isometric [live demo](http://labs.phaser.io/view.html?src=src\tilemap\isometric\isometric%20test.js) and [sources](https://github.com/photonstorm/phaser3-examples/blob/master/public/src/tilemap/isometric/isometric%20test.js) (isometric, scrollable, no player implemented):
+- Phase3 isometric [live demo](http://labs.phaser.io/view.html?src=src\tilemap\isometric\isometric%20test.js) and [sources](https://github.com/photonstorm/phaser3-examples/blob/master/public/src/tilemap/isometric/isometric%20test.js) (isometric, scrollable, no player implemented, [online editor](http://labs.phaser.io/edit.html?src=src\tilemap\isometric\isometric%20test.js)):
 
 ![image](https://user-images.githubusercontent.com/1620953/201660182-905101c8-0f5e-4a2a-8f4f-66859573fe39.png)
 
