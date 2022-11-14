@@ -11,9 +11,24 @@ Phaser supports isometric games since version 3.5.0, and it also supports TMJ fi
 
 [Official tutorial](https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/) ([source code on github](https://github.com/StackAbuse/creating-a-platformer-with-phaser-3))
 
-Another tutorial on platform gamers with Phaser:
-- [Link](https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game#part-5) ([live demo](https://kingdom-knight.netlify.app/) , [source code on codesandbox](https://codesandbox.io/s/webgl-phaser3-typescript-2mnbt-2mnbt)):
+Other tutorials on platform gamers with Phaser:
+- [On shakuro.com](https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game#part-5) ([live demo](https://kingdom-knight.netlify.app/) , [source code on codesandbox](https://codesandbox.io/s/webgl-phaser3-typescript-2mnbt-2mnbt)):
 
 ![image](https://user-images.githubusercontent.com/1620953/201653416-4b9cf166-21ea-4ad0-97cf-54b3c2f49354.png)
 
+- [On phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part7)  (player made with sprites):
+
+![image](https://user-images.githubusercontent.com/1620953/201659741-4784e1d5-52b8-46a3-99c6-174f250f6886.png)
+
+- Phase3 isometric [live demo](http://labs.phaser.io/view.html?src=src\tilemap\isometric\isometric%20test.js) and [sources](https://github.com/photonstorm/phaser3-examples/blob/master/public/src/tilemap/isometric/isometric%20test.js):
+
+![image](https://user-images.githubusercontent.com/1620953/201660182-905101c8-0f5e-4a2a-8f4f-66859573fe39.png)
+
+
+# Notes
+
+- Method 1 to create the player (with sprites):
+    - [link](https://github.com/EvanBacon/expo-phaser-isometric/blob/master/game/dude.js)
+    - [link](http://phaser.io/tutorials/making-your-first-phaser-3-game/part5)
+- Method 2 (with "player"): [link](https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/)
 
