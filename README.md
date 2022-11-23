@@ -24,6 +24,10 @@ Other tutorials on platform gamers with Phaser:
 
 ![image](https://user-images.githubusercontent.com/1620953/201660182-905101c8-0f5e-4a2a-8f4f-66859573fe39.png)
 
+- Phaser3 isometric demo - [Source](https://github.com/daan93/phaser-isometric-demo) - [Live](https://daan93.github.io/phaser-isometric-demo/)
+
+![immagine](https://user-images.githubusercontent.com/1620953/203573133-1100f2cf-5318-4ee4-ac79-7b24e24c641a.png)
+
 
 # Notes
 
